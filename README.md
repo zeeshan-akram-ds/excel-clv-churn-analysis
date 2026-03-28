@@ -35,7 +35,7 @@ Who are our most valuable customers, and exactly how much capital should we allo
 
 ## **How to Open and Explore the Analysis**
 
-1. Download Excel\_Project.xlsb from this repository. *(Note: Saved as a Binary file to compress the 70MB+ Power Pivot Data Model and ensure fast load times).*  
+1. Navigate to the Releases section on the right side of this repository (or click [here](https://github.com/zeeshan-akram-ds/excel-clv-churn-analysis/releases/tag/v1.0.0)) and download the Excel_Project.xlsb asset. (Note: Saved as a Binary file to compress the 50MB+ Power Pivot Data Model).
 2. Open in Microsoft Excel (Windows Desktop version recommended for full Power Pivot and Slicer compatibility).  
 3. The workbook opens directly to the 3\_Dashboard tab for the executive presentation layer.  
 4. Slicers are fully interactive and connected to the backend relational Data Model. To audit the raw mathematics, ETL steps, or EDA, unhide the Dashboard\_Calcs and tbl\_CleanData sheets.
