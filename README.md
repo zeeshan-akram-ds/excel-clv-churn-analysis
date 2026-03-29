@@ -2,6 +2,8 @@
 
 I analyzed £17.3M in UK retail transactions to identify exactly where the business is leaking customer lifetime value. By engineering a custom RFM model and calculating historical CLV, I uncovered a 40x revenue gap between VIPs and at-risk buyers. This analysis provides actionable operational strategies to secure over £630,000 in at-risk revenue through targeted retention and cohort upgrades.
 
+![Interactive Dashboard Demo](assets/Video_demo.gif)
+
 ## **Business Question**
 
 Who are our most valuable customers, and exactly how much capital should we allocate to retain them versus acquiring new ones?
@@ -9,6 +11,9 @@ Who are our most valuable customers, and exactly how much capital should we allo
 ## **Key Findings**
 
 * **The 40x VIP Multiplier:** Our top 20% of customers drive 77.2% of total sales. A single "Champion" buyer has a Historical CLV of £8,821—roughly 40 times higher than an "At-Risk" customer (£220).  
+
+  ![CLV 40x Multiplier](assets/avg_clv_segment.png)
+
 * **The "Potential Loyalist" Problem:** The largest user segment (33% of the customer base) contributes only 12.8% of revenue. In contrast, the "Loyal" tier makes up a slightly smaller footprint but generates a massive 55.2% of all sales.  
 * **Domestic Dependency & Q4 Spikes:** The business is highly localized (82.8% UK revenue) and relies heavily on a massive November acquisition spike. These November sales are driven by first-time holiday shoppers, not existing VIPs spending more.  
 * **Category Concentration:** Product lines prefixed with '2' and '8' act as the primary engines for top-line revenue, while several peripheral categories generate negligible financial return.
@@ -39,3 +44,4 @@ Who are our most valuable customers, and exactly how much capital should we allo
 2. Open in Microsoft Excel (Windows Desktop version recommended for full Power Pivot and Slicer compatibility).  
 3. The workbook opens directly to the 3\_Dashboard tab for the executive presentation layer.  
 4. Slicers are fully interactive and connected to the backend relational Data Model. To audit the raw mathematics, ETL steps, or EDA, unhide the Dashboard\_Calcs and tbl\_CleanData sheets.
+
