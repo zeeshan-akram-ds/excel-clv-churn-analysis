@@ -10,7 +10,7 @@ Who are our most valuable customers, and exactly how much capital should we allo
 
 ## **Key Findings**
 
-* **The 40x VIP Multiplier:** Our top 20% of customers drive 77.2% of total sales. A single "Champion" buyer has a Historical CLV of £8,821—roughly 40 times higher than an "At-Risk" customer (£220).  
+* **The 40x VIP Multiplier:** Our top 20% of customers drive 77.2% of total sales. A single "Champion" buyer has a Historical CLV of £8,867—roughly 40 times higher than an "At-Risk" customer (£220).  
 
   ![CLV 40x Multiplier](assets/avg_clv_segment.png)
 
@@ -22,7 +22,7 @@ Who are our most valuable customers, and exactly how much capital should we allo
 
 * **Launch Champion Protection (Defensive):** Trigger personalized account manager outreach if a Champion goes 60 days without a purchase. 
 
-**Impact:** Preventing just a 5% churn in this tier (28 accounts) protects £246,988 in lifetime value that would require acquiring 1,100+ standard At-Risk users to replace.
+**Impact:** Preventing just a 5% churn in this tier (28 accounts) protects £248,276 in lifetime value that would require acquiring 1,100+ standard At-Risk users to replace.
 
 * **Deploy a "Potential Loyalist" Upgrade Sequence (Growth):** Send an automated 10% discount code exactly 14 days after a first-time delivery to break the "one-and-done" habit.
 
