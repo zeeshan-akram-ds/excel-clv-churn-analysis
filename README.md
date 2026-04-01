@@ -1,6 +1,6 @@
 # **E-Commerce RFM Segmentation & Lifetime Value Strategy**
 
-I analyzed £17.3M in UK retail transactions to identify exactly where the business is leaking customer lifetime value. By engineering a custom RFM model and calculating historical CLV, I uncovered a 40x revenue gap between VIPs and at-risk buyers. This analysis provides actionable operational strategies to secure over £630,000 in at-risk revenue through targeted retention and cohort upgrades.
+I analyzed £17.3M in UK retail transactions to identify exactly where the business is leaking customer lifetime value. By engineering a custom RFM model and calculating historical CLV, I uncovered a 40x revenue gap between VIPs and at-risk buyers. This analysis provides actionable operational strategies to secure over £641,056 in at-risk revenue through targeted retention and cohort upgrades.
 
 ![Interactive Dashboard Demo](assets/Video_demo.gif)
 
@@ -10,11 +10,11 @@ Who are our most valuable customers, and exactly how much capital should we allo
 
 ## **Key Findings**
 
-* **The 40x VIP Multiplier:** Our top 20% of customers drive 77.2% of total sales. A single "Champion" buyer has a Historical CLV of £8,867—roughly 40 times higher than an "At-Risk" customer (£220).  
+* **The 40x VIP Multiplier:** Our top 20% of customers drive 77.2% of total sales. A single "Champion" buyer has a Historical CLV of £8,767—roughly 40 times higher than an "At-Risk" customer (£220).  
 
   ![CLV 40x Multiplier](assets/avg_clv_segment.png)
 
-* **The "Potential Loyalist" Problem:** The largest user segment (33% of the customer base) contributes only 12.8% of revenue. In contrast, the "Loyal" tier makes up a slightly smaller footprint but generates a massive 55.2% of all sales.  
+* **The "Potential Loyalist" Problem:** The largest user segment (33% of the customer base) contributes only 12.6% of revenue. In contrast, the "Loyal" tier makes up a slightly smaller footprint but generates a massive 55.2% of all sales.  
 * **Domestic Dependency & Q4 Spikes:** The business is highly localized (82.8% UK revenue) and relies heavily on a massive November acquisition spike. These November sales are driven by first-time holiday shoppers, not existing VIPs spending more.  
 * **Category Concentration:** Product lines prefixed with '2' and '8' act as the primary engines for top-line revenue, while several peripheral categories generate negligible financial return.
 
@@ -22,11 +22,11 @@ Who are our most valuable customers, and exactly how much capital should we allo
 
 * **Launch Champion Protection (Defensive):** Trigger personalized account manager outreach if a Champion goes 60 days without a purchase. 
 
-**Impact:** Preventing just a 5% churn in this tier (28 accounts) protects £248,276 in lifetime value that would require acquiring 1,100+ standard At-Risk users to replace.
+**Impact:** Preventing just a 5% churn in this tier (28 accounts) protects £245,476 in lifetime value that would require acquiring 1,100+ standard At-Risk users to replace.
 
 * **Deploy a "Potential Loyalist" Upgrade Sequence (Growth):** Send an automated 10% discount code exactly 14 days after a first-time delivery to break the "one-and-done" habit.
 
-**Impact:** Upgrading just 5% of this segment (95 users) to Loyal status generates an estimated £389,690 in incremental lifetime revenue.
+**Impact:** Upgrading just 5% of this segment (95 users) to Loyal status generates an estimated £395,580 in incremental lifetime revenue.
 
 * **Capitalize on the Q4 Seasonal Trap (Operational):** Insert physical "December-Only" promotional gift cards into every November shipment to convert one-time holiday shoppers into retail buyers. 
 
