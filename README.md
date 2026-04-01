@@ -38,6 +38,8 @@ Who are our most valuable customers, and exactly how much capital should we allo
 * **Deterministic CLV & Seasonality Bias:** The CLV metric is a historical heuristic, not a predictive BG/NBD survival model. Additionally, standard RFM logic mathematically penalizes holiday-only shoppers, potentially misclassifying healthy Q4 buyers as "At Risk" during summer months.  
 * **Geographic Homogeneity:** With 82.8% of revenue originating in the UK, segmentation behaviors are heavily biased toward the domestic market and should not be blindly generalized to international segments.
 
+[![Watch the video](https://img.youtube.com/vi/jlOkndlBRUw/0.jpg)](https://youtu.be/jlOkndlBRUw)
+
 ## **How to Open and Explore the Analysis**
 
 1. Navigate to the Releases section on the right side of this repository (or click [here](https://github.com/zeeshan-akram-ds/excel-clv-churn-analysis/releases/tag/v1.0.0)) and download the Excel_Project.xlsb asset. (Note: Saved as a Binary file to compress the 50MB+ Power Pivot Data Model).
