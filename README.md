@@ -25,15 +25,21 @@ Who are our most valuable customers, and exactly how much capital should we allo
 
 * **Launch Champion Protection (Defensive):** Trigger personalized account manager outreach if a Champion goes 60 days without a purchase. 
 
-**Impact:** Preventing just a 5% churn in this tier (28 accounts) protects £245,476 in lifetime value that would require acquiring 1,100+ standard At-Risk users to replace.
+  **Impact:** Preventing just a 5% churn in this tier (28 accounts) protects £245,476 in lifetime value that would require acquiring 1,100+ standard At-Risk users to replace.
 
 * **Deploy a "Potential Loyalist" Upgrade Sequence (Growth):** Send an automated 10% discount code exactly 14 days after a first-time delivery to break the "one-and-done" habit.
 
-**Impact:** Upgrading just 5% of this segment (95 users) to Loyal status generates an estimated £395,580 in incremental lifetime revenue.
+  **Impact:** Upgrading just 5% of this segment (95 users) to Loyal status generates an estimated £395,580 in incremental lifetime revenue.
 
 * **Capitalize on the Q4 Seasonal Trap (Operational):** Insert physical "December-Only" promotional gift cards into every November shipment to convert one-time holiday shoppers into retail buyers. 
 
-**Impact:** Retaining 5% of the unique November cohort (80 users) captures an immediate £65,520 in baseline lifetime value.
+  **Impact:** Retaining 5% of the unique November cohort (80 users) captures an immediate £65,520 in baseline lifetime value.
+
+## **Technical Stack & Methodology**
+
+* **ETL:** Power Query (Data cleaning, handling the 23% guest checkout missing IDs)
+* **Data Modeling:** Power Pivot (Relational modeling of 1M+ rows)
+* **Calculations:** Custom threshold-based RFM scoring
 
 ## **Limitations**
 
