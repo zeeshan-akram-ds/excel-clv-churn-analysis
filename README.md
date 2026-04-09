@@ -15,7 +15,10 @@ Who are our most valuable customers, and exactly how much capital should we allo
   ![CLV 40x Multiplier](assets/avg_clv_segment.png)
 
 * **The "Potential Loyalist" Problem:** The largest user segment (33% of the customer base) contributes only 12.6% of revenue. In contrast, the "Loyal" tier makes up a slightly smaller footprint but generates a massive 55.2% of all sales.  
-* **Domestic Dependency & Q4 Spikes:** The business is highly localized (82.8% UK revenue) and relies heavily on a massive November acquisition spike. These November sales are driven by first-time holiday shoppers, not existing VIPs spending more.  
+* **Domestic Dependency & Q4 Spikes:** The business is highly localized (82.8% UK revenue) and relies heavily on a massive November acquisition spike. These November sales are driven by first-time holiday shoppers, not existing VIPs spending more.
+
+  ![Dashboard Interface](assets/dashboard_interface.png)
+  
 * **Category Concentration:** Product lines prefixed with '2' and '8' act as the primary engines for top-line revenue, while several peripheral categories generate negligible financial return.
 
 ## **Recommendations**
