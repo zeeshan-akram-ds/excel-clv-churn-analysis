@@ -1,0 +1,13 @@
+# Ignore large Excel file
+Excel_Project.xlsb
+
+# Ignore entire data folder
+data/
+
+# Ignore other common large/unwanted files
+*.xlsb
+*.xlsx
+data/**
+__pycache__/
+*.pyc
+.DS_Store
