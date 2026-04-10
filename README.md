@@ -4,6 +4,10 @@ I analyzed £17.3M in UK retail transactions to identify exactly where the busin
 
 ![Interactive Dashboard Demo](assets/Video_demo.gif)
 
+## **The Content:**
+* **Direct Access:** [Download the Interactive Excel System (v1.0.0)](https://github.com/zeeshan-akram-ds/excel-clv-churn-analysis/releases/tag/v1.0.0)
+* **Note:** Open the .xlsb file in Excel for Desktop to access the full 50MB+ Power Pivot model and interactive slicers.
+
 ## **Business Question**
 
 Who are our most valuable customers, and exactly how much capital should we allocate to retain them versus acquiring new ones?
